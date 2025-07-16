@@ -1,0 +1,10 @@
+{
+  "name": "goblin-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "start": "webpack serve",
+  "build": "webpack --mode production",
+  "lint": "eslint src",
+  "test": "jest"
+}

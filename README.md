@@ -1,6 +1,6 @@
 # Goblin Game
 
-[![Build Status](https://github.com/ DenisPoznyakov/goblin-game-2/actions/workflows/deploy.yml/badge.svg)](https://github.com/ DenisPoznyakov/goblin-game-2/actions)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/DenisPoznyakov/goblin-game-2?branch=main&svg=true)](https://ci.appveyor.com/project/DenisPoznyakov/goblin-game-2)
 
 Play the game [here](https://DenisPoznyakov.github.io/goblin-game-2/).
 
